@@ -1,0 +1,7 @@
+ store/__pycache__/
+ store/middleware/__pycache__/
+ store/migrations/__pycache__/
+ store/models/__pycache__/
+ store/templatetags/__pycache__/
+ store/views/__pycache__/
+
